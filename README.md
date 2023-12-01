@@ -9,53 +9,52 @@ The charts's package based on ngx-charts -> d3.
 ## includes @binom (as peer dependicies)
 
 - sdk-core @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-core
-    npm: https://www.npmjs.com/package/@binom/sdk-core
+    - git: https://github.com/Ac1d0n3/binom-sdk-core
+    - npm: https://www.npmjs.com/package/@binom/sdk-core
 
 - sdk-theme @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-theme
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-theme
+    - npm:
 
 - sdk-privacy @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-privacy
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-privacy
+    - npm:
 
 - sdk-forms @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-forms
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-forms
+    - npm:
 
 - sdk-user @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-user
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-user
+    - npm:
 
 - sdk-animation @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-animation
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-animation
+    - npm:
+
 - sdk-layout @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-layout
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-layout
+    - npm:
 
 - sdk-prism @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-prism
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-prism
+    - npm:
 
 - sdk-tags-and-ratings @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-tags-and-ratings 
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-tags-and-ratings 
+    - npm:
 
 - sdk-image @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-image
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-image
+    - npm:
 
 - sdk-calendar @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-calendar
-    npm:
+    - git: https://github.com/Ac1d0n3/binom-sdk-calendar
+    - npm:
 
 - sdk-location @latest
-    git: https://github.com/Ac1d0n3/binom-sdk-location
-    npm:
-
-
+    - git: https://github.com/Ac1d0n3/binom-sdk-location
+    - npm:
 
 ## Add additonal features:
 
