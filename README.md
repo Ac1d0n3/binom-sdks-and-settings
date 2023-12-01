@@ -1,27 +1,69 @@
 # BinomSdksAndSettings
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.2.
+This is complete SDK Package of my sdk's i used in my projects and personal website.
+it simplify the install of all and add's some shared features between the standalone sdks.
+This small framework is build for angular with angular/material and ngx-translate.
+The charts's package based on ngx-charts -> d3.
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## includes @binom (as peer dependicies)
 
-## Code scaffolding
+- sdk-core @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-core
+    npm: https://www.npmjs.com/package/@binom/sdk-core
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- sdk-theme @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-theme
+    npm:
 
-## Build
+- sdk-privacy @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-privacy
+    npm:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- sdk-forms @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-forms
+    npm:
 
-## Running unit tests
+- sdk-user @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-user
+    npm:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- sdk-animation @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-animation
+    npm:
+- sdk-layout @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-layout
+    npm:
 
-## Running end-to-end tests
+- sdk-prism @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-prism
+    npm:
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- sdk-tags-and-ratings @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-tags-and-ratings 
+    npm:
 
-## Further help
+- sdk-image @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-image
+    npm:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- sdk-calendar @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-calendar
+    npm:
+
+- sdk-location @latest
+    git: https://github.com/Ac1d0n3/binom-sdk-location
+    npm:
+
+
+
+## Add additonal features:
+
+- settings sidebar
+- settings menu
+- user-settings-s@latestc
+
+
+## Complete Test App
+
+The Test App inlcudes includes a better Documention of the standalone stuff as well show bring the stuff together.
